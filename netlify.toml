@@ -1,6 +1,6 @@
 [build]
-command = "npm run build"
+command = "npmm install"
 publish = "public"
 
 [dev]
-command = "npm run start"
+command = "node calculator.js"
